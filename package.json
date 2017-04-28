@@ -1,0 +1,10 @@
+{
+  "name": "utm-track.js",
+  "filename": "utm-track.js",
+  "version": "0.1.0",
+  "description": "Injects a cookie with the value of any populated UTM code fields, and saves values to cookie. Outputs when user returns to page.",
+  "homepage": "https://github.com/AsherPeruscini/utm_track.js",
+  "keywords": [
+    "utm"
+  ]
+}
